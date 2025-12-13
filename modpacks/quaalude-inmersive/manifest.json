@@ -1,6 +1,6 @@
 {
   "name": "QuaaludeInmersiveModPack",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/smurfhub/valheim",
   "description": "Quaalude Inmersive required mods.",
   "dependencies": [
@@ -35,6 +35,11 @@
     "MSchmoecker-MultiUserChest-0.6.1",
     "MSchmoecker-FenceSnap-0.3.0",
     "MSchmoecker-DynamicStoragePiles-0.7.0",
-    "Galateam-FarmGrid-1.0.0"
+    "VentureValheim-Venture_Location_Reset-0.10.7",
+    "VentureValheim-No_Grass-0.1.4",
+    "VentureValheim-Muted_Mist-0.1.0",
+    "VentureValheim-Venture_Farm_Grid-0.1.2",
+    "VentureValheim-Venture_Logout_Tweaks-0.6.0"
   ]
+
 }

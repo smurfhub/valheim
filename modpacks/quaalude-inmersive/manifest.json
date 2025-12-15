@@ -1,6 +1,6 @@
 {
   "name": "QuaaludeInmersiveModPack",
-  "version_number": "1.0.4",
+  "version_number": "1.0.5",
   "website_url": "https://github.com/smurfhub/valheim",
   "description": "Quaalude Inmersive required mods.",
   "dependencies": [
@@ -46,4 +46,5 @@
   ]
 
 }
+
 

@@ -1,0 +1,7 @@
+﻿{
+  "name": "Aedenthorn_Custom_UI",
+  "description": "Lets you customize the size, position, and even rotation and grid layout of the various HUD elements.",
+  "version_number": "0.8.1",
+  "website_url": "https://github.com/aedenthorn/ValheimMods",
+  "dependencies": []
+}

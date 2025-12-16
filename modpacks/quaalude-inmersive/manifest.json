@@ -1,6 +1,6 @@
 {
   "name": "QuaaludeInmersiveModPack",
-  "version_number": "1.0.8",
+  "version_number": "1.0.9",
   "website_url": "https://github.com/smurfhub/valheim",
   "description": "Quaalude Inmersive required mods.",
   "dependencies": [
@@ -50,6 +50,7 @@
     "Smurfgames-Aedenthorn_Custom_UI-0.8.1"
   ]
 }
+
 
 
 

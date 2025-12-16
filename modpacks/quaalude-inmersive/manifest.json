@@ -1,6 +1,6 @@
 {
   "name": "QuaaludeInmersiveModPack",
-  "version_number": "1.0.6",
+  "version_number": "1.0.7",
   "website_url": "https://github.com/smurfhub/valheim",
   "description": "Quaalude Inmersive required mods.",
   "dependencies": [
@@ -45,10 +45,14 @@
     "TeamKoro-BetterTames-0.0.7",
     "Advize-PlantEverything-1.20.0",
     "Advize-PlantEasily-2.0.3",
-    "CookieMilk-Wagon-1.1.7"
+    "CookieMilk-Wagon-1.1.7",
+    "PerspectiveBroad4501-ValheimRadial-1.0.3",
+    "CoffeeNova-Valheim_Foresight-1.0.0",
+    "M2Valheim-SkillsReworked-1.0.3",
+    "Smurfgames-Aedenthorn_Custom_UI-0.8.1"
   ]
-
 }
+
 
 
 

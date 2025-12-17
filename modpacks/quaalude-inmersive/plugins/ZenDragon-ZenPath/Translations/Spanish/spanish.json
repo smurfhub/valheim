@@ -1,0 +1,8 @@
+{
+  "se_path_dirt_name": "Camino",
+  "se_path_dirt_tooltip": "Un camino sencillo facilita sus viajes",
+  "se_path_paved_name": "Carretera",
+  "se_path_paved_tooltip": "La hermosa carretera pavimentada elimina todas las cargas",
+  "se_path_snow_name": "Nieve",
+  "se_path_snow_tooltip": "La nieve espesa dificulta el movimiento"
+}

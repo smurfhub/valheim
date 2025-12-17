@@ -1,6 +1,6 @@
 {
   "name": "QuaaludeInmersiveModPack",
-  "version_number": "1.0.9",
+  "version_number": "1.0.10",
   "website_url": "https://github.com/smurfhub/valheim",
   "description": "Quaalude Inmersive required mods.",
   "dependencies": [
@@ -26,10 +26,8 @@
     "Smoothbrain-HildirsQuest-1.0.2",
     "Smoothbrain-Ranching-1.1.3",
     "Smoothbrain-Sailing-1.1.7",
-    "Smoothbrain-Farming-2.2.1",
     "Smoothbrain-Starvation-1.0.4",
     "Smoothbrain-DualWield-1.0.9",
-    "Smoothbrain-Resurrection-1.0.12",
     "Smoothbrain-CombatOwner-1.0.0",
     "Smoothbrain-Guilds-1.1.11",
     "MSchmoecker-MultiUserChest-0.6.1",
@@ -37,17 +35,16 @@
     "MSchmoecker-DynamicStoragePiles-0.7.0",
     "VentureValheim-Venture_Location_Reset-0.10.7",
     "VentureValheim-No_Grass-0.1.4",
-    "VentureValheim-Muted_Mist-0.1.0",
     "VentureValheim-Venture_Logout_Tweaks-0.6.0",
     "blacks7ar-VikingsDoSwim-1.4.0",
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.3",
     "TeamKoro-BetterTames-0.0.7",
     "Advize-PlantEverything-1.20.0",
-    "Advize-PlantEasily-2.0.3",
     "CookieMilk-Wagon-1.1.7",
     "PerspectiveBroad4501-ValheimRadial-1.0.3",
     "CoffeeNova-Valheim_Foresight-1.0.0",
-    "Smurfgames-Aedenthorn_Custom_UI-0.8.1"
+    "Smurfgames-Aedenthorn_Custom_UI-0.8.1",
+    "shudnal-JustSleep-1.0.6"
   ]
 }
 

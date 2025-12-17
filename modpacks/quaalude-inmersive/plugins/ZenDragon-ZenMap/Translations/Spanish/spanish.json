@@ -1,0 +1,19 @@
+{
+	"map_item": "Mapa",
+	"map_item_description": "Un mapa dibujado a mano que ilustra parte del mundo",
+	"map_item_parchment": "Pergamino",
+	"map_item_parchment_description": "Una hoja de pergamino en blanco. Perfecta para dibujar mapas",
+	"map_item_pin": "Marcador de ubicación",
+	"map_item_pin_description": "Cuando se adjunta a una placa, mostrará un marcador en su mapa y brújula",
+	"map_item_prompt": "Etiqueta del mapa",
+	"map_charting_single": "Área mapeada: 1 día",
+	"map_charting_plural": "Área mapeada: $1 días",
+	"map_region_default": "Mesa de Cartografía",
+	"map_region_prompt": "Nombre de la región",
+	"map_error_missing": "No estás cargando ningún mapa",
+	"map_error_alien": "Retrata un mundo alienígena desconocido",
+	"msg_no_pin_indoors": "No se puede aplicar un marcador en una mazmorra",
+	"msg_no_refund": "El marcador de ubicación no será reembolsado",
+	"msg_confirm": "¿Estás seguro?",
+	"msg_calendar": "Año $1"
+}

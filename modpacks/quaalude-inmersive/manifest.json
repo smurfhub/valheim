@@ -1,6 +1,6 @@
 {
   "name": "QuaaludeInmersiveModPack",
-  "version_number": "1.0.10",
+  "version_number": "1.0.11",
   "website_url": "https://github.com/smurfhub/valheim",
   "description": "Quaalude Inmersive required mods.",
   "dependencies": [
@@ -41,12 +41,13 @@
     "TeamKoro-BetterTames-0.0.7",
     "Advize-PlantEverything-1.20.0",
     "CookieMilk-Wagon-1.1.7",
-    "PerspectiveBroad4501-ValheimRadial-1.0.3",
     "CoffeeNova-Valheim_Foresight-1.0.0",
     "Smurfgames-Aedenthorn_Custom_UI-0.8.1",
-    "shudnal-JustSleep-1.0.6"
+    "shudnal-JustSleep-1.0.6",
+    "Azumatt-WardIsLove-3.7.1"
   ]
 }
+
 
 
 
